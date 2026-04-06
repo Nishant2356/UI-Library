@@ -1,5 +1,5 @@
 "use client"
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Settings2, Type, Sparkles, PaintBucket, Palette, SlidersHorizontal, MousePointerClick } from 'lucide-react';
 
 export default function App() {
