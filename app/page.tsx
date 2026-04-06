@@ -36,10 +36,10 @@ export default function App() {
 
       {/* PREVIEW AREA */}
       <div className="flex-1 relative flex flex-col items-center justify-center p-8 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-neutral-900 to-neutral-950 border-b lg:border-b-0 lg:border-r border-neutral-800">
-        <div className="absolute top-6 left-6 flex items-center gap-2 text-neutral-400">
+        {/* <div className="absolute top-6 left-6 flex items-center gap-2 text-neutral-400">
           <Sparkles size={20} className="text-amber-500" />
           <span className="font-semibold tracking-wider text-sm uppercase">Canvas Preview</span>
-        </div>
+        </div> */}
 
         {/* The Devil Button Component */}
         <div className="w-full max-w-[220px]">
